@@ -1,7 +1,7 @@
-Starting SSH tunnel at Mon Sep  8 02:22:36 UTC 2025
+Starting SSH tunnel at Mon Sep  8 02:23:20 UTC 2025
 Pseudo-terminal will not be allocated because stdin is not a terminal.
-Allocated port 9 for remote forward to 127.0.0.1:25565
+Allocated port 8 for remote forward to 127.0.0.1:25565
 You are not authenticated.
 Your tunnel will expire in 60 minutes. Upgrade to Pinggy Pro to get unrestricted tunnels. https://dashboard.pinggy.io
-tcp://fhtyh-121-241-69-194.a.free.pinggy.link:37647
-SSH started with PID 2671673
+tcp://scbky-121-241-69-194.a.free.pinggy.link:35507
+SSH started with PID 2672518
